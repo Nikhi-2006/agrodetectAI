@@ -1,0 +1,9 @@
+
+{
+  "name": "AgroDetect AI",
+  "description": "An intelligent plant disease detection system using Gemini AI to identify crop issues and provide treatment recommendations from leaf images.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
